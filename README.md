@@ -13,7 +13,7 @@ There’s no way to know for  sure that DarkMarket is here to stay - at least fo
 # Quick Facts about Dark Market-
 
 - Founded: 2019
-- Number of listings: 127,000+(as of December 2020)
+- Number of listings: 127,000+(as of January 2021)
 - Listing  categories: Digital Goods, Drugs, Services, Security & Hosting,  Miscellaneous, 	Jewelry, Identification, Guides & Tutorials, Fraud,  Counterfeit, Software & Malware, and Carded Items.
 - Coins accepted: Bitcoin (BTC), Monero (XMR)
 - Multisignature escrow: No
